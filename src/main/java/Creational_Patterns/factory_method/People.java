@@ -1,4 +1,4 @@
-package factory_method;
+package Creational_Patterns.factory_method;
 
 //Para realizar o factory method primeiro criamos uma classe abstrata chamada people
 public abstract class People {

@@ -1,4 +1,4 @@
-package factory_method;
+package Creational_Patterns.factory_method;
 //Criamos aqui uma classe cliente para a decisão de qual frase ele vai printar dependendo do gênero
 public class PeopleFactory {
 //Aqui usamos uma estrutura if-else para decisão pois é só um exemplo de Factory method

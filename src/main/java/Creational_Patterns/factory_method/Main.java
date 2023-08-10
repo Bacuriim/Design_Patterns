@@ -1,4 +1,4 @@
-package factory_method;
+package Creational_Patterns.factory_method;
 //Aqui criamos o objeto de PeopleFactory e printamos o resultado na classe de gender escolhida
 public class Main {
     public static void main(String[] args) {
